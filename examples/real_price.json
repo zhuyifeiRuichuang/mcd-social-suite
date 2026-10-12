@@ -1,0 +1,38 @@
+{
+  "source_tool": "calculate-price",
+  "store_code": "1450104",
+  "items": [
+    {
+      "productCode": "9900015602",
+      "quantity": 2
+    }
+  ],
+  "result": {
+    "productOriginalPrice": 4580,
+    "productPrice": 4580,
+    "originalPrice": 4580,
+    "discount": 0,
+    "price": 4580,
+    "productList": [
+      {
+        "productCode": "9900015602",
+        "productName": "大堡口福三件套",
+        "quantity": 2,
+        "originalSubtotal": 4580,
+        "subtotal": 4580
+      }
+    ],
+    "takeWayList": [
+      {
+        "code": "eat-in",
+        "title": "堂食",
+        "subtitle": "店内用餐"
+      },
+      {
+        "code": "take-in-store",
+        "title": "外带",
+        "subtitle": "店内自提"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2254 @@
+{
+  "source_tool": "query-party-city",
+  "count": 281,
+  "cities": [
+    {
+      "code": 610900,
+      "latitude": 32.685435,
+      "longitude": 109.029017,
+      "name": "安康市",
+      "initial": "A",
+      "sortNo": 7
+    },
+    {
+      "code": 340800,
+      "latitude": 30.531828,
+      "longitude": 117.115349,
+      "name": "安庆市",
+      "initial": "A",
+      "sortNo": 8
+    },
+    {
+      "code": 410500,
+      "latitude": 36.098779,
+      "longitude": 114.39248,
+      "name": "安阳市",
+      "initial": "A",
+      "sortNo": 10
+    },
+    {
+      "code": 210300,
+      "latitude": 41.108239,
+      "longitude": 122.994183,
+      "name": "鞍山市",
+      "initial": "A",
+      "sortNo": 11
+    },
+    {
+      "code": 150800,
+      "latitude": 40.742987,
+      "longitude": 107.387767,
+      "name": "巴彦淖尔市",
+      "initial": "B",
+      "sortNo": 12
+    },
+    {
+      "code": 511900,
+      "latitude": 31.867853,
+      "longitude": 106.747548,
+      "name": "巴中市",
+      "initial": "B",
+      "sortNo": 14
+    },
+    {
+      "code": 220600,
+      "latitude": 41.944132,
+      "longitude": 126.414274,
+      "name": "白山市",
+      "initial": "B",
+      "sortNo": 17
+    },
+    {
+      "code": 451000,
+      "latitude": 23.90307,
+      "longitude": 106.61869,
+      "name": "百色市",
+      "initial": "B",
+      "sortNo": 19
+    },
+    {
+      "code": 340300,
+      "latitude": 32.91682,
+      "longitude": 117.388566,
+      "name": "蚌埠市",
+      "initial": "B",
+      "sortNo": 20
+    },
+    {
+      "code": 150200,
+      "latitude": 40.621327,
+      "longitude": 109.95315,
+      "name": "包头市",
+      "initial": "B",
+      "sortNo": 21
+    },
+    {
+      "code": 610300,
+      "latitude": 34.362862,
+      "longitude": 107.237682,
+      "name": "宝鸡市",
+      "initial": "B",
+      "sortNo": 22
+    },
+    {
+      "code": 130600,
+      "latitude": 38.874476,
+      "longitude": 115.464523,
+      "name": "保定市",
+      "initial": "B",
+      "sortNo": 23
+    },
+    {
+      "code": 530500,
+      "latitude": 25.112018,
+      "longitude": 99.161489,
+      "name": "保山市",
+      "initial": "B",
+      "sortNo": 24
+    },
+    {
+      "code": 450500,
+      "latitude": 21.481305,
+      "longitude": 109.120248,
+      "name": "北海市",
+      "initial": "B",
+      "sortNo": 26
+    },
+    {
+      "code": 110100,
+      "latitude": 39.904179,
+      "longitude": 116.407387,
+      "name": "北京市",
+      "initial": "B",
+      "sortNo": 27
+    },
+    {
+      "code": 210500,
+      "latitude": 41.486834,
+      "longitude": 123.684984,
+      "name": "本溪市",
+      "initial": "B",
+      "sortNo": 30
+    },
+    {
+      "code": 371600,
+      "latitude": 37.382687,
+      "longitude": 117.970731,
+      "name": "滨州市",
+      "initial": "B",
+      "sortNo": 32
+    },
+    {
+      "code": 341600,
+      "latitude": 33.846285,
+      "longitude": 115.778588,
+      "name": "亳州市",
+      "initial": "B",
+      "sortNo": 33
+    },
+    {
+      "code": 130900,
+      "latitude": 38.304676,
+      "longitude": 116.838715,
+      "name": "沧州市",
+      "initial": "C",
+      "sortNo": 35
+    },
+    {
+      "code": 469026,
+      "latitude": 19.298139,
+      "longitude": 109.055783,
+      "name": "昌江黎族自治县",
+      "initial": "C",
+      "sortNo": 38
+    },
+    {
+      "code": 220100,
+      "latitude": 43.816996,
+      "longitude": 125.323643,
+      "name": "长春市",
+      "initial": "C",
+      "sortNo": 39
+    },
+    {
+      "code": 430100,
+      "latitude": 28.228304,
+      "longitude": 112.938882,
+      "name": "长沙市",
+      "initial": "C",
+      "sortNo": 40
+    },
+    {
+      "code": 140400,
+      "latitude": 36.195142,
+      "longitude": 113.117394,
+      "name": "长治市",
+      "initial": "C",
+      "sortNo": 41
+    },
+    {
+      "code": 430700,
+      "latitude": 29.031446,
+      "longitude": 111.69905,
+      "name": "常德市",
+      "initial": "C",
+      "sortNo": 42
+    },
+    {
+      "code": 320400,
+      "latitude": 31.811313,
+      "longitude": 119.974092,
+      "name": "常州市",
+      "initial": "C",
+      "sortNo": 43
+    },
+    {
+      "code": 211300,
+      "latitude": 41.601855,
+      "longitude": 120.488801,
+      "name": "朝阳市",
+      "initial": "C",
+      "sortNo": 44
+    },
+    {
+      "code": 445100,
+      "latitude": 23.657662,
+      "longitude": 116.621901,
+      "name": "潮州市",
+      "initial": "C",
+      "sortNo": 45
+    },
+    {
+      "code": 431000,
+      "latitude": 25.770117,
+      "longitude": 113.015517,
+      "name": "郴州市",
+      "initial": "C",
+      "sortNo": 46
+    },
+    {
+      "code": 510100,
+      "latitude": 30.572961,
+      "longitude": 104.066301,
+      "name": "成都市",
+      "initial": "C",
+      "sortNo": 47
+    },
+    {
+      "code": 130800,
+      "latitude": 40.952942,
+      "longitude": 117.962749,
+      "name": "承德市",
+      "initial": "C",
+      "sortNo": 48
+    },
+    {
+      "code": 469023,
+      "latitude": 19.738885,
+      "longitude": 110.007497,
+      "name": "澄迈县",
+      "initial": "C",
+      "sortNo": 49
+    },
+    {
+      "code": 341700,
+      "latitude": 30.674264,
+      "longitude": 117.495663,
+      "name": "池州市",
+      "initial": "C",
+      "sortNo": 50
+    },
+    {
+      "code": 150400,
+      "latitude": 42.256876,
+      "longitude": 118.887613,
+      "name": "赤峰市",
+      "initial": "C",
+      "sortNo": 51
+    },
+    {
+      "code": 341100,
+      "latitude": 32.255904,
+      "longitude": 118.333439,
+      "name": "滁州市",
+      "initial": "C",
+      "sortNo": 53
+    },
+    {
+      "code": 532300,
+      "latitude": 25.045678,
+      "longitude": 101.528304,
+      "name": "楚雄彝族自治州",
+      "initial": "C",
+      "sortNo": 54
+    },
+    {
+      "code": 511700,
+      "latitude": 31.209278,
+      "longitude": 107.46778,
+      "name": "达州市",
+      "initial": "D",
+      "sortNo": 55
+    },
+    {
+      "code": 532900,
+      "latitude": 25.606548,
+      "longitude": 100.267608,
+      "name": "大理白族自治州",
+      "initial": "D",
+      "sortNo": 56
+    },
+    {
+      "code": 210200,
+      "latitude": 38.913962,
+      "longitude": 121.614786,
+      "name": "大连市",
+      "initial": "D",
+      "sortNo": 57
+    },
+    {
+      "code": 230600,
+      "latitude": 46.589498,
+      "longitude": 125.104078,
+      "name": "大庆市",
+      "initial": "D",
+      "sortNo": 59
+    },
+    {
+      "code": 140200,
+      "latitude": 40.09711,
+      "longitude": 113.366749,
+      "name": "大同市",
+      "initial": "D",
+      "sortNo": 61
+    },
+    {
+      "code": 210600,
+      "latitude": 40.000646,
+      "longitude": 124.354419,
+      "name": "丹东市",
+      "initial": "D",
+      "sortNo": 63
+    },
+    {
+      "code": 460400,
+      "latitude": 19.520948,
+      "longitude": 109.580812,
+      "name": "儋州市",
+      "initial": "D",
+      "sortNo": 64
+    },
+    {
+      "code": 533100,
+      "latitude": 24.433146,
+      "longitude": 98.585621,
+      "name": "德宏傣族景颇族自治州",
+      "initial": "D",
+      "sortNo": 65
+    },
+    {
+      "code": 510600,
+      "latitude": 31.127449,
+      "longitude": 104.397795,
+      "name": "德阳市",
+      "initial": "D",
+      "sortNo": 66
+    },
+    {
+      "code": 371400,
+      "latitude": 37.436492,
+      "longitude": 116.359244,
+      "name": "德州市",
+      "initial": "D",
+      "sortNo": 67
+    },
+    {
+      "code": 621100,
+      "latitude": 35.607947,
+      "longitude": 104.592342,
+      "name": "定西市",
+      "initial": "D",
+      "sortNo": 70
+    },
+    {
+      "code": 469007,
+      "latitude": 19.095187,
+      "longitude": 108.651829,
+      "name": "东方市",
+      "initial": "D",
+      "sortNo": 71
+    },
+    {
+      "code": 441900,
+      "latitude": 23.021016,
+      "longitude": 113.751884,
+      "name": "东莞市",
+      "initial": "D",
+      "sortNo": 74
+    },
+    {
+      "code": 370500,
+      "latitude": 37.433992,
+      "longitude": 118.674633,
+      "name": "东营市",
+      "initial": "D",
+      "sortNo": 75
+    },
+    {
+      "code": 150600,
+      "latitude": 39.608744,
+      "longitude": 109.782473,
+      "name": "鄂尔多斯市",
+      "initial": "E",
+      "sortNo": 76
+    },
+    {
+      "code": 420700,
+      "latitude": 30.391461,
+      "longitude": 114.894909,
+      "name": "鄂州市",
+      "initial": "E",
+      "sortNo": 77
+    },
+    {
+      "code": 422800,
+      "latitude": 30.272104,
+      "longitude": 109.488076,
+      "name": "恩施土家族苗族自治州",
+      "initial": "E",
+      "sortNo": 78
+    },
+    {
+      "code": 450600,
+      "latitude": 21.686732,
+      "longitude": 108.35467,
+      "name": "防城港市",
+      "initial": "F",
+      "sortNo": 79
+    },
+    {
+      "code": 440600,
+      "latitude": 23.021351,
+      "longitude": 113.121586,
+      "name": "佛山市",
+      "initial": "F",
+      "sortNo": 81
+    },
+    {
+      "code": 350100,
+      "latitude": 26.074286,
+      "longitude": 119.296411,
+      "name": "福州市",
+      "initial": "F",
+      "sortNo": 82
+    },
+    {
+      "code": 210400,
+      "latitude": 41.881311,
+      "longitude": 123.957053,
+      "name": "抚顺市",
+      "initial": "F",
+      "sortNo": 83
+    },
+    {
+      "code": 361000,
+      "latitude": 27.948979,
+      "longitude": 116.358054,
+      "name": "抚州市",
+      "initial": "F",
+      "sortNo": 84
+    },
+    {
+      "code": 210900,
+      "latitude": 42.022028,
+      "longitude": 121.670052,
+      "name": "阜新市",
+      "initial": "F",
+      "sortNo": 85
+    },
+    {
+      "code": 341200,
+      "latitude": 32.891032,
+      "longitude": 115.814252,
+      "name": "阜阳市",
+      "initial": "F",
+      "sortNo": 86
+    },
+    {
+      "code": 360700,
+      "latitude": 25.831139,
+      "longitude": 114.933494,
+      "name": "赣州市",
+      "initial": "G",
+      "sortNo": 89
+    },
+    {
+      "code": 511600,
+      "latitude": 30.456354,
+      "longitude": 106.632647,
+      "name": "广安市",
+      "initial": "G",
+      "sortNo": 92
+    },
+    {
+      "code": 510800,
+      "latitude": 32.435774,
+      "longitude": 105.844004,
+      "name": "广元市",
+      "initial": "G",
+      "sortNo": 93
+    },
+    {
+      "code": 440100,
+      "latitude": 23.130061,
+      "longitude": 113.264499,
+      "name": "广州市",
+      "initial": "G",
+      "sortNo": 94
+    },
+    {
+      "code": 450800,
+      "latitude": 23.11182,
+      "longitude": 109.598903,
+      "name": "贵港市",
+      "initial": "G",
+      "sortNo": 95
+    },
+    {
+      "code": 520100,
+      "latitude": 26.646694,
+      "longitude": 106.628201,
+      "name": "贵阳市",
+      "initial": "G",
+      "sortNo": 96
+    },
+    {
+      "code": 450300,
+      "latitude": 25.235615,
+      "longitude": 110.179752,
+      "name": "桂林市",
+      "initial": "G",
+      "sortNo": 97
+    },
+    {
+      "code": 230100,
+      "latitude": 45.802981,
+      "longitude": 126.53505,
+      "name": "哈尔滨市",
+      "initial": "H",
+      "sortNo": 99
+    },
+    {
+      "code": 460100,
+      "latitude": 20.045805,
+      "longitude": 110.198418,
+      "name": "海口市",
+      "initial": "H",
+      "sortNo": 103
+    },
+    {
+      "code": 130400,
+      "latitude": 36.625849,
+      "longitude": 114.53915,
+      "name": "邯郸市",
+      "initial": "H",
+      "sortNo": 106
+    },
+    {
+      "code": 610700,
+      "latitude": 33.066373,
+      "longitude": 107.02319,
+      "name": "汉中市",
+      "initial": "H",
+      "sortNo": 107
+    },
+    {
+      "code": 330100,
+      "latitude": 30.246026,
+      "longitude": 120.210792,
+      "name": "杭州市",
+      "initial": "H",
+      "sortNo": 108
+    },
+    {
+      "code": 340100,
+      "latitude": 31.820567,
+      "longitude": 117.227267,
+      "name": "合肥市",
+      "initial": "H",
+      "sortNo": 109
+    },
+    {
+      "code": 441600,
+      "latitude": 23.744276,
+      "longitude": 114.700215,
+      "name": "河源市",
+      "initial": "H",
+      "sortNo": 112
+    },
+    {
+      "code": 371700,
+      "latitude": 35.234309,
+      "longitude": 115.479646,
+      "name": "菏泽市",
+      "initial": "H",
+      "sortNo": 113
+    },
+    {
+      "code": 410600,
+      "latitude": 35.748329,
+      "longitude": 114.297305,
+      "name": "鹤壁市",
+      "initial": "H",
+      "sortNo": 115
+    },
+    {
+      "code": 131100,
+      "latitude": 37.739367,
+      "longitude": 115.668987,
+      "name": "衡水市",
+      "initial": "H",
+      "sortNo": 118
+    },
+    {
+      "code": 430400,
+      "latitude": 26.894216,
+      "longitude": 112.572016,
+      "name": "衡阳市",
+      "initial": "H",
+      "sortNo": 119
+    },
+    {
+      "code": 532500,
+      "latitude": 23.363129,
+      "longitude": 103.374873,
+      "name": "红河哈尼族彝族自治州",
+      "initial": "H",
+      "sortNo": 120
+    },
+    {
+      "code": 150100,
+      "latitude": 40.842127,
+      "longitude": 111.748814,
+      "name": "呼和浩特市",
+      "initial": "H",
+      "sortNo": 121
+    },
+    {
+      "code": 150700,
+      "latitude": 49.166536,
+      "longitude": 119.77845,
+      "name": "呼伦贝尔市",
+      "initial": "H",
+      "sortNo": 122
+    },
+    {
+      "code": 330500,
+      "latitude": 30.894178,
+      "longitude": 120.086881,
+      "name": "湖州市",
+      "initial": "H",
+      "sortNo": 123
+    },
+    {
+      "code": 211400,
+      "latitude": 40.710974,
+      "longitude": 120.836783,
+      "name": "葫芦岛市",
+      "initial": "H",
+      "sortNo": 124
+    },
+    {
+      "code": 431200,
+      "latitude": 27.569813,
+      "longitude": 110.001598,
+      "name": "怀化市",
+      "initial": "H",
+      "sortNo": 127
+    },
+    {
+      "code": 320800,
+      "latitude": 33.551495,
+      "longitude": 119.113166,
+      "name": "淮安市",
+      "initial": "H",
+      "sortNo": 128
+    },
+    {
+      "code": 340600,
+      "latitude": 33.956264,
+      "longitude": 116.798362,
+      "name": "淮北市",
+      "initial": "H",
+      "sortNo": 129
+    },
+    {
+      "code": 340400,
+      "latitude": 32.585384,
+      "longitude": 117.018603,
+      "name": "淮南市",
+      "initial": "H",
+      "sortNo": 130
+    },
+    {
+      "code": 421100,
+      "latitude": 30.453722,
+      "longitude": 114.872425,
+      "name": "黄冈市",
+      "initial": "H",
+      "sortNo": 132
+    },
+    {
+      "code": 341000,
+      "latitude": 29.714886,
+      "longitude": 118.337643,
+      "name": "黄山市",
+      "initial": "H",
+      "sortNo": 134
+    },
+    {
+      "code": 420200,
+      "latitude": 30.201082,
+      "longitude": 115.038999,
+      "name": "黄石市",
+      "initial": "H",
+      "sortNo": 135
+    },
+    {
+      "code": 441300,
+      "latitude": 23.112368,
+      "longitude": 114.415587,
+      "name": "惠州市",
+      "initial": "H",
+      "sortNo": 136
+    },
+    {
+      "code": 230300,
+      "latitude": 45.295087,
+      "longitude": 130.969385,
+      "name": "鸡西市",
+      "initial": "J",
+      "sortNo": 137
+    },
+    {
+      "code": 360800,
+      "latitude": 27.091243,
+      "longitude": 114.96681,
+      "name": "吉安市",
+      "initial": "J",
+      "sortNo": 138
+    },
+    {
+      "code": 220200,
+      "latitude": 43.838132,
+      "longitude": 126.549719,
+      "name": "吉林市",
+      "initial": "J",
+      "sortNo": 139
+    },
+    {
+      "code": 370100,
+      "latitude": 36.652069,
+      "longitude": 117.120128,
+      "name": "济南市",
+      "initial": "J",
+      "sortNo": 140
+    },
+    {
+      "code": 370800,
+      "latitude": 35.415117,
+      "longitude": 116.587116,
+      "name": "济宁市",
+      "initial": "J",
+      "sortNo": 141
+    },
+    {
+      "code": 230800,
+      "latitude": 46.800002,
+      "longitude": 130.318916,
+      "name": "佳木斯市",
+      "initial": "J",
+      "sortNo": 143
+    },
+    {
+      "code": 330400,
+      "latitude": 30.746814,
+      "longitude": 120.755623,
+      "name": "嘉兴市",
+      "initial": "J",
+      "sortNo": 145
+    },
+    {
+      "code": 440700,
+      "latitude": 22.578948,
+      "longitude": 113.081548,
+      "name": "江门市",
+      "initial": "J",
+      "sortNo": 147
+    },
+    {
+      "code": 410800,
+      "latitude": 35.215726,
+      "longitude": 113.241902,
+      "name": "焦作市",
+      "initial": "J",
+      "sortNo": 148
+    },
+    {
+      "code": 445200,
+      "latitude": 23.550968,
+      "longitude": 116.372732,
+      "name": "揭阳市",
+      "initial": "J",
+      "sortNo": 149
+    },
+    {
+      "code": 330700,
+      "latitude": 29.079195,
+      "longitude": 119.647265,
+      "name": "金华市",
+      "initial": "J",
+      "sortNo": 151
+    },
+    {
+      "code": 210700,
+      "latitude": 41.096114,
+      "longitude": 121.126859,
+      "name": "锦州市",
+      "initial": "J",
+      "sortNo": 152
+    },
+    {
+      "code": 140500,
+      "latitude": 35.491315,
+      "longitude": 112.852022,
+      "name": "晋城市",
+      "initial": "J",
+      "sortNo": 153
+    },
+    {
+      "code": 140700,
+      "latitude": 37.688006,
+      "longitude": 112.752633,
+      "name": "晋中市",
+      "initial": "J",
+      "sortNo": 154
+    },
+    {
+      "code": 420800,
+      "latitude": 31.035445,
+      "longitude": 112.199009,
+      "name": "荆门市",
+      "initial": "J",
+      "sortNo": 155
+    },
+    {
+      "code": 421000,
+      "latitude": 30.336282,
+      "longitude": 112.24143,
+      "name": "荆州市",
+      "initial": "J",
+      "sortNo": 156
+    },
+    {
+      "code": 360200,
+      "latitude": 29.2744,
+      "longitude": 117.184892,
+      "name": "景德镇市",
+      "initial": "J",
+      "sortNo": 157
+    },
+    {
+      "code": 360400,
+      "latitude": 29.66116,
+      "longitude": 115.95356,
+      "name": "九江市",
+      "initial": "J",
+      "sortNo": 158
+    },
+    {
+      "code": 620900,
+      "latitude": 39.733416,
+      "longitude": 98.49432,
+      "name": "酒泉市",
+      "initial": "J",
+      "sortNo": 160
+    },
+    {
+      "code": 410200,
+      "latitude": 34.798083,
+      "longitude": 114.314278,
+      "name": "开封市",
+      "initial": "K",
+      "sortNo": 162
+    },
+    {
+      "code": 530100,
+      "latitude": 24.88149,
+      "longitude": 102.833669,
+      "name": "昆明市",
+      "initial": "K",
+      "sortNo": 167
+    },
+    {
+      "code": 540100,
+      "latitude": 29.653491,
+      "longitude": 91.171924,
+      "name": "拉萨市",
+      "initial": "L",
+      "sortNo": 169
+    },
+    {
+      "code": 451300,
+      "latitude": 23.750105,
+      "longitude": 109.221243,
+      "name": "来宾市",
+      "initial": "L",
+      "sortNo": 170
+    },
+    {
+      "code": 620100,
+      "latitude": 36.060798,
+      "longitude": 103.834228,
+      "name": "兰州市",
+      "initial": "L",
+      "sortNo": 172
+    },
+    {
+      "code": 131000,
+      "latitude": 39.538304,
+      "longitude": 116.683546,
+      "name": "廊坊市",
+      "initial": "L",
+      "sortNo": 173
+    },
+    {
+      "code": 511100,
+      "latitude": 29.552275,
+      "longitude": 103.766085,
+      "name": "乐山市",
+      "initial": "L",
+      "sortNo": 175
+    },
+    {
+      "code": 331100,
+      "latitude": 28.467694,
+      "longitude": 119.923249,
+      "name": "丽水市",
+      "initial": "L",
+      "sortNo": 178
+    },
+    {
+      "code": 320700,
+      "latitude": 34.596639,
+      "longitude": 119.221487,
+      "name": "连云港市",
+      "initial": "L",
+      "sortNo": 179
+    },
+    {
+      "code": 211000,
+      "latitude": 41.267396,
+      "longitude": 123.239669,
+      "name": "辽阳市",
+      "initial": "L",
+      "sortNo": 181
+    },
+    {
+      "code": 371500,
+      "latitude": 36.455857,
+      "longitude": 115.985238,
+      "name": "聊城市",
+      "initial": "L",
+      "sortNo": 183
+    },
+    {
+      "code": 141000,
+      "latitude": 36.088581,
+      "longitude": 111.51931,
+      "name": "临汾市",
+      "initial": "L",
+      "sortNo": 186
+    },
+    {
+      "code": 371300,
+      "latitude": 35.103771,
+      "longitude": 118.356464,
+      "name": "临沂市",
+      "initial": "L",
+      "sortNo": 189
+    },
+    {
+      "code": 469028,
+      "latitude": 18.506045,
+      "longitude": 110.037553,
+      "name": "陵水黎族自治县",
+      "initial": "L",
+      "sortNo": 190
+    },
+    {
+      "code": 450200,
+      "latitude": 24.326442,
+      "longitude": 109.428071,
+      "name": "柳州市",
+      "initial": "L",
+      "sortNo": 191
+    },
+    {
+      "code": 341500,
+      "latitude": 31.735892,
+      "longitude": 116.519729,
+      "name": "六安市",
+      "initial": "L",
+      "sortNo": 192
+    },
+    {
+      "code": 520200,
+      "latitude": 26.592538,
+      "longitude": 104.830357,
+      "name": "六盘水市",
+      "initial": "L",
+      "sortNo": 193
+    },
+    {
+      "code": 350800,
+      "latitude": 25.075884,
+      "longitude": 117.017362,
+      "name": "龙岩市",
+      "initial": "L",
+      "sortNo": 194
+    },
+    {
+      "code": 431300,
+      "latitude": 27.699838,
+      "longitude": 111.994468,
+      "name": "娄底市",
+      "initial": "L",
+      "sortNo": 196
+    },
+    {
+      "code": 510500,
+      "latitude": 28.87098,
+      "longitude": 105.441866,
+      "name": "泸州市",
+      "initial": "L",
+      "sortNo": 197
+    },
+    {
+      "code": 141100,
+      "latitude": 37.518996,
+      "longitude": 111.14454,
+      "name": "吕梁市",
+      "initial": "L",
+      "sortNo": 199
+    },
+    {
+      "code": 410300,
+      "latitude": 34.619702,
+      "longitude": 112.453895,
+      "name": "洛阳市",
+      "initial": "L",
+      "sortNo": 200
+    },
+    {
+      "code": 411100,
+      "latitude": 33.58038,
+      "longitude": 114.0166,
+      "name": "漯河市",
+      "initial": "L",
+      "sortNo": 201
+    },
+    {
+      "code": 340500,
+      "latitude": 31.668765,
+      "longitude": 118.50685,
+      "name": "马鞍山市",
+      "initial": "M",
+      "sortNo": 202
+    },
+    {
+      "code": 440900,
+      "latitude": 21.662728,
+      "longitude": 110.925533,
+      "name": "茂名市",
+      "initial": "M",
+      "sortNo": 203
+    },
+    {
+      "code": 511400,
+      "latitude": 29.601189,
+      "longitude": 103.484557,
+      "name": "眉山市",
+      "initial": "M",
+      "sortNo": 204
+    },
+    {
+      "code": 441400,
+      "latitude": 24.288832,
+      "longitude": 116.122046,
+      "name": "梅州市",
+      "initial": "M",
+      "sortNo": 205
+    },
+    {
+      "code": 510700,
+      "latitude": 31.467673,
+      "longitude": 104.679127,
+      "name": "绵阳市",
+      "initial": "M",
+      "sortNo": 206
+    },
+    {
+      "code": 231000,
+      "latitude": 44.551486,
+      "longitude": 129.632928,
+      "name": "牡丹江市",
+      "initial": "M",
+      "sortNo": 207
+    },
+    {
+      "code": 511000,
+      "latitude": 29.58021,
+      "longitude": 105.057992,
+      "name": "内江市",
+      "initial": "N",
+      "sortNo": 208
+    },
+    {
+      "code": 360100,
+      "latitude": 28.682976,
+      "longitude": 115.857972,
+      "name": "南昌市",
+      "initial": "N",
+      "sortNo": 210
+    },
+    {
+      "code": 511300,
+      "latitude": 30.837235,
+      "longitude": 106.110565,
+      "name": "南充市",
+      "initial": "N",
+      "sortNo": 211
+    },
+    {
+      "code": 320100,
+      "latitude": 32.059344,
+      "longitude": 118.796624,
+      "name": "南京市",
+      "initial": "N",
+      "sortNo": 212
+    },
+    {
+      "code": 450100,
+      "latitude": 22.8177,
+      "longitude": 108.366407,
+      "name": "南宁市",
+      "initial": "N",
+      "sortNo": 213
+    },
+    {
+      "code": 350700,
+      "latitude": 27.382829,
+      "longitude": 118.081325,
+      "name": "南平市",
+      "initial": "N",
+      "sortNo": 214
+    },
+    {
+      "code": 320600,
+      "latitude": 31.981269,
+      "longitude": 120.894522,
+      "name": "南通市",
+      "initial": "N",
+      "sortNo": 216
+    },
+    {
+      "code": 411300,
+      "latitude": 32.990218,
+      "longitude": 112.528549,
+      "name": "南阳市",
+      "initial": "N",
+      "sortNo": 217
+    },
+    {
+      "code": 330200,
+      "latitude": 29.860258,
+      "longitude": 121.62454,
+      "name": "宁波市",
+      "initial": "N",
+      "sortNo": 218
+    },
+    {
+      "code": 350900,
+      "latitude": 26.666222,
+      "longitude": 119.547729,
+      "name": "宁德市",
+      "initial": "N",
+      "sortNo": 219
+    },
+    {
+      "code": 510400,
+      "latitude": 26.582417,
+      "longitude": 101.71846,
+      "name": "攀枝花市",
+      "initial": "P",
+      "sortNo": 221
+    },
+    {
+      "code": 211100,
+      "latitude": 40.71956,
+      "longitude": 122.170729,
+      "name": "盘锦市",
+      "initial": "P",
+      "sortNo": 222
+    },
+    {
+      "code": 410400,
+      "latitude": 33.766554,
+      "longitude": 113.192595,
+      "name": "平顶山市",
+      "initial": "P",
+      "sortNo": 223
+    },
+    {
+      "code": 360300,
+      "latitude": 27.658721,
+      "longitude": 113.887147,
+      "name": "萍乡市",
+      "initial": "P",
+      "sortNo": 225
+    },
+    {
+      "code": 350300,
+      "latitude": 25.454202,
+      "longitude": 119.007662,
+      "name": "莆田市",
+      "initial": "P",
+      "sortNo": 226
+    },
+    {
+      "code": 410900,
+      "latitude": 35.762731,
+      "longitude": 115.029246,
+      "name": "濮阳市",
+      "initial": "P",
+      "sortNo": 227
+    },
+    {
+      "code": 230200,
+      "latitude": 47.354892,
+      "longitude": 123.918193,
+      "name": "齐齐哈尔市",
+      "initial": "Q",
+      "sortNo": 230
+    },
+    {
+      "code": 429005,
+      "latitude": 30.401954,
+      "longitude": 112.900279,
+      "name": "潜江市",
+      "initial": "Q",
+      "sortNo": 231
+    },
+    {
+      "code": 522600,
+      "latitude": 26.583759,
+      "longitude": 107.982838,
+      "name": "黔东南苗族侗族自治州",
+      "initial": "Q",
+      "sortNo": 232
+    },
+    {
+      "code": 522300,
+      "latitude": 25.087733,
+      "longitude": 104.906419,
+      "name": "黔西南布依族苗族自治州",
+      "initial": "Q",
+      "sortNo": 234
+    },
+    {
+      "code": 450700,
+      "latitude": 21.980894,
+      "longitude": 108.654355,
+      "name": "钦州市",
+      "initial": "Q",
+      "sortNo": 235
+    },
+    {
+      "code": 130300,
+      "latitude": 39.888243,
+      "longitude": 119.52022,
+      "name": "秦皇岛市",
+      "initial": "Q",
+      "sortNo": 236
+    },
+    {
+      "code": 370200,
+      "latitude": 36.066938,
+      "longitude": 120.382665,
+      "name": "青岛市",
+      "initial": "Q",
+      "sortNo": 237
+    },
+    {
+      "code": 441800,
+      "latitude": 23.682064,
+      "longitude": 113.056098,
+      "name": "清远市",
+      "initial": "Q",
+      "sortNo": 238
+    },
+    {
+      "code": 621000,
+      "latitude": 35.709459,
+      "longitude": 107.643433,
+      "name": "庆阳市",
+      "initial": "Q",
+      "sortNo": 239
+    },
+    {
+      "code": 469002,
+      "latitude": 19.259112,
+      "longitude": 110.474524,
+      "name": "琼海市",
+      "initial": "Q",
+      "sortNo": 240
+    },
+    {
+      "code": 530300,
+      "latitude": 25.490866,
+      "longitude": 103.796288,
+      "name": "曲靖市",
+      "initial": "Q",
+      "sortNo": 242
+    },
+    {
+      "code": 330800,
+      "latitude": 28.970229,
+      "longitude": 118.859307,
+      "name": "衢州市",
+      "initial": "Q",
+      "sortNo": 243
+    },
+    {
+      "code": 350500,
+      "latitude": 24.874452,
+      "longitude": 118.675724,
+      "name": "泉州市",
+      "initial": "Q",
+      "sortNo": 244
+    },
+    {
+      "code": 371100,
+      "latitude": 35.416912,
+      "longitude": 119.52685,
+      "name": "日照市",
+      "initial": "R",
+      "sortNo": 247
+    },
+    {
+      "code": 411200,
+      "latitude": 34.773196,
+      "longitude": 111.200482,
+      "name": "三门峡市",
+      "initial": "S",
+      "sortNo": 248
+    },
+    {
+      "code": 350400,
+      "latitude": 26.263455,
+      "longitude": 117.638919,
+      "name": "三明市",
+      "initial": "S",
+      "sortNo": 249
+    },
+    {
+      "code": 460200,
+      "latitude": 18.252865,
+      "longitude": 109.511709,
+      "name": "三亚市",
+      "initial": "S",
+      "sortNo": 251
+    },
+    {
+      "code": 440500,
+      "latitude": 23.354152,
+      "longitude": 116.681956,
+      "name": "汕头市",
+      "initial": "S",
+      "sortNo": 254
+    },
+    {
+      "code": 441500,
+      "latitude": 22.787204,
+      "longitude": 115.375557,
+      "name": "汕尾市",
+      "initial": "S",
+      "sortNo": 255
+    },
+    {
+      "code": 411400,
+      "latitude": 34.415165,
+      "longitude": 115.656358,
+      "name": "商丘市",
+      "initial": "S",
+      "sortNo": 257
+    },
+    {
+      "code": 310100,
+      "latitude": 31.230525,
+      "longitude": 121.473667,
+      "name": "上海市",
+      "initial": "S",
+      "sortNo": 258
+    },
+    {
+      "code": 361100,
+      "latitude": 28.45513,
+      "longitude": 117.943064,
+      "name": "上饶市",
+      "initial": "S",
+      "sortNo": 259
+    },
+    {
+      "code": 440200,
+      "latitude": 24.810977,
+      "longitude": 113.597324,
+      "name": "韶关市",
+      "initial": "S",
+      "sortNo": 260
+    },
+    {
+      "code": 430500,
+      "latitude": 27.239528,
+      "longitude": 111.467855,
+      "name": "邵阳市",
+      "initial": "S",
+      "sortNo": 261
+    },
+    {
+      "code": 330600,
+      "latitude": 30.051549,
+      "longitude": 120.582886,
+      "name": "绍兴市",
+      "initial": "S",
+      "sortNo": 262
+    },
+    {
+      "code": 440300,
+      "latitude": 22.543527,
+      "longitude": 114.057939,
+      "name": "深圳市",
+      "initial": "S",
+      "sortNo": 264
+    },
+    {
+      "code": 210100,
+      "latitude": 41.677576,
+      "longitude": 123.464675,
+      "name": "沈阳市",
+      "initial": "S",
+      "sortNo": 266
+    },
+    {
+      "code": 420300,
+      "latitude": 32.629057,
+      "longitude": 110.798921,
+      "name": "十堰市",
+      "initial": "S",
+      "sortNo": 268
+    },
+    {
+      "code": 659001,
+      "latitude": 44.305368,
+      "longitude": 86.080397,
+      "name": "石河子市",
+      "initial": "S",
+      "sortNo": 269
+    },
+    {
+      "code": 130100,
+      "latitude": 38.042007,
+      "longitude": 114.514976,
+      "name": "石家庄市",
+      "initial": "S",
+      "sortNo": 270
+    },
+    {
+      "code": 230500,
+      "latitude": 46.676157,
+      "longitude": 131.141563,
+      "name": "双鸭山市",
+      "initial": "S",
+      "sortNo": 273
+    },
+    {
+      "code": 140600,
+      "latitude": 39.331734,
+      "longitude": 112.432906,
+      "name": "朔州市",
+      "initial": "S",
+      "sortNo": 274
+    },
+    {
+      "code": 220300,
+      "latitude": 43.166764,
+      "longitude": 124.350599,
+      "name": "四平市",
+      "initial": "S",
+      "sortNo": 275
+    },
+    {
+      "code": 320500,
+      "latitude": 31.299758,
+      "longitude": 120.585294,
+      "name": "苏州市",
+      "initial": "S",
+      "sortNo": 277
+    },
+    {
+      "code": 321300,
+      "latitude": 33.963186,
+      "longitude": 118.275228,
+      "name": "宿迁市",
+      "initial": "S",
+      "sortNo": 278
+    },
+    {
+      "code": 341300,
+      "latitude": 33.647726,
+      "longitude": 116.96419,
+      "name": "宿州市",
+      "initial": "S",
+      "sortNo": 279
+    },
+    {
+      "code": 231200,
+      "latitude": 46.654147,
+      "longitude": 126.968714,
+      "name": "绥化市",
+      "initial": "S",
+      "sortNo": 280
+    },
+    {
+      "code": 421300,
+      "latitude": 31.690275,
+      "longitude": 113.382324,
+      "name": "随州市",
+      "initial": "S",
+      "sortNo": 281
+    },
+    {
+      "code": 510900,
+      "latitude": 30.53268,
+      "longitude": 105.592602,
+      "name": "遂宁市",
+      "initial": "S",
+      "sortNo": 282
+    },
+    {
+      "code": 331000,
+      "latitude": 28.655716,
+      "longitude": 121.42079,
+      "name": "台州市",
+      "initial": "T",
+      "sortNo": 284
+    },
+    {
+      "code": 140100,
+      "latitude": 37.870451,
+      "longitude": 112.549656,
+      "name": "太原市",
+      "initial": "T",
+      "sortNo": 285
+    },
+    {
+      "code": 370900,
+      "latitude": 36.201784,
+      "longitude": 117.086963,
+      "name": "泰安市",
+      "initial": "T",
+      "sortNo": 286
+    },
+    {
+      "code": 321200,
+      "latitude": 32.456692,
+      "longitude": 119.922883,
+      "name": "泰州市",
+      "initial": "T",
+      "sortNo": 287
+    },
+    {
+      "code": 130200,
+      "latitude": 39.63068,
+      "longitude": 118.180149,
+      "name": "唐山市",
+      "initial": "T",
+      "sortNo": 288
+    },
+    {
+      "code": 120100,
+      "latitude": 39.085318,
+      "longitude": 117.201509,
+      "name": "天津市",
+      "initial": "T",
+      "sortNo": 289
+    },
+    {
+      "code": 429006,
+      "latitude": 30.663706,
+      "longitude": 113.166545,
+      "name": "天门市",
+      "initial": "T",
+      "sortNo": 290
+    },
+    {
+      "code": 620500,
+      "latitude": 34.581514,
+      "longitude": 105.724828,
+      "name": "天水市",
+      "initial": "T",
+      "sortNo": 291
+    },
+    {
+      "code": 211200,
+      "latitude": 42.223709,
+      "longitude": 123.726008,
+      "name": "铁岭市",
+      "initial": "T",
+      "sortNo": 292
+    },
+    {
+      "code": 150500,
+      "latitude": 43.653566,
+      "longitude": 122.243309,
+      "name": "通辽市",
+      "initial": "T",
+      "sortNo": 295
+    },
+    {
+      "code": 340700,
+      "latitude": 30.945214,
+      "longitude": 117.811298,
+      "name": "铜陵市",
+      "initial": "T",
+      "sortNo": 297
+    },
+    {
+      "code": 520600,
+      "latitude": 27.731555,
+      "longitude": 109.189528,
+      "name": "铜仁市",
+      "initial": "T",
+      "sortNo": 298
+    },
+    {
+      "code": 469006,
+      "latitude": 18.793697,
+      "longitude": 110.392605,
+      "name": "万宁市",
+      "initial": "W",
+      "sortNo": 304
+    },
+    {
+      "code": 371000,
+      "latitude": 37.513315,
+      "longitude": 122.120519,
+      "name": "威海市",
+      "initial": "W",
+      "sortNo": 306
+    },
+    {
+      "code": 370700,
+      "latitude": 36.707668,
+      "longitude": 119.161721,
+      "name": "潍坊市",
+      "initial": "W",
+      "sortNo": 307
+    },
+    {
+      "code": 330300,
+      "latitude": 27.993849,
+      "longitude": 120.699279,
+      "name": "温州市",
+      "initial": "W",
+      "sortNo": 309
+    },
+    {
+      "code": 532600,
+      "latitude": 23.400983,
+      "longitude": 104.21567,
+      "name": "文山壮族苗族自治州",
+      "initial": "W",
+      "sortNo": 311
+    },
+    {
+      "code": 150900,
+      "latitude": 40.994526,
+      "longitude": 113.132227,
+      "name": "乌兰察布市",
+      "initial": "W",
+      "sortNo": 313
+    },
+    {
+      "code": 650100,
+      "latitude": 43.825377,
+      "longitude": 87.616824,
+      "name": "乌鲁木齐市",
+      "initial": "W",
+      "sortNo": 314
+    },
+    {
+      "code": 320200,
+      "latitude": 31.491064,
+      "longitude": 120.311889,
+      "name": "无锡市",
+      "initial": "W",
+      "sortNo": 315
+    },
+    {
+      "code": 340200,
+      "latitude": 31.352614,
+      "longitude": 118.433065,
+      "name": "芜湖市",
+      "initial": "W",
+      "sortNo": 317
+    },
+    {
+      "code": 450400,
+      "latitude": 23.476733,
+      "longitude": 111.279022,
+      "name": "梧州市",
+      "initial": "W",
+      "sortNo": 318
+    },
+    {
+      "code": 420100,
+      "latitude": 30.593354,
+      "longitude": 114.304569,
+      "name": "武汉市",
+      "initial": "W",
+      "sortNo": 321
+    },
+    {
+      "code": 620600,
+      "latitude": 37.92898,
+      "longitude": 102.637821,
+      "name": "武威市",
+      "initial": "W",
+      "sortNo": 322
+    },
+    {
+      "code": 610100,
+      "latitude": 34.343207,
+      "longitude": 108.939645,
+      "name": "西安市",
+      "initial": "X",
+      "sortNo": 323
+    },
+    {
+      "code": 532800,
+      "latitude": 22.009037,
+      "longitude": 100.797002,
+      "name": "西双版纳傣族自治州",
+      "initial": "X",
+      "sortNo": 326
+    },
+    {
+      "code": 152500,
+      "latitude": 43.933212,
+      "longitude": 116.047387,
+      "name": "锡林郭勒盟",
+      "initial": "X",
+      "sortNo": 327
+    },
+    {
+      "code": 350200,
+      "latitude": 24.479627,
+      "longitude": 118.08891,
+      "name": "厦门市",
+      "initial": "X",
+      "sortNo": 328
+    },
+    {
+      "code": 429004,
+      "latitude": 30.328407,
+      "longitude": 113.442973,
+      "name": "仙桃市",
+      "initial": "X",
+      "sortNo": 329
+    },
+    {
+      "code": 421200,
+      "latitude": 29.84135,
+      "longitude": 114.322601,
+      "name": "咸宁市",
+      "initial": "X",
+      "sortNo": 330
+    },
+    {
+      "code": 610400,
+      "latitude": 34.329896,
+      "longitude": 108.708837,
+      "name": "咸阳市",
+      "initial": "X",
+      "sortNo": 331
+    },
+    {
+      "code": 430300,
+      "latitude": 27.83136,
+      "longitude": 112.945439,
+      "name": "湘潭市",
+      "initial": "X",
+      "sortNo": 332
+    },
+    {
+      "code": 433100,
+      "latitude": 28.312592,
+      "longitude": 109.737428,
+      "name": "湘西土家族苗族自治州",
+      "initial": "X",
+      "sortNo": 333
+    },
+    {
+      "code": 420600,
+      "latitude": 32.010161,
+      "longitude": 112.121743,
+      "name": "襄阳市",
+      "initial": "X",
+      "sortNo": 334
+    },
+    {
+      "code": 420900,
+      "latitude": 30.918311,
+      "longitude": 113.956962,
+      "name": "孝感市",
+      "initial": "X",
+      "sortNo": 335
+    },
+    {
+      "code": 140900,
+      "latitude": 38.415958,
+      "longitude": 112.734149,
+      "name": "忻州市",
+      "initial": "X",
+      "sortNo": 336
+    },
+    {
+      "code": 410700,
+      "latitude": 35.303589,
+      "longitude": 113.92679,
+      "name": "新乡市",
+      "initial": "X",
+      "sortNo": 337
+    },
+    {
+      "code": 360500,
+      "latitude": 27.818553,
+      "longitude": 114.916665,
+      "name": "新余市",
+      "initial": "X",
+      "sortNo": 338
+    },
+    {
+      "code": 411500,
+      "latitude": 32.148624,
+      "longitude": 114.091058,
+      "name": "信阳市",
+      "initial": "X",
+      "sortNo": 339
+    },
+    {
+      "code": 152200,
+      "latitude": 46.082373,
+      "longitude": 122.037796,
+      "name": "兴安盟",
+      "initial": "X",
+      "sortNo": 340
+    },
+    {
+      "code": 130500,
+      "latitude": 37.060227,
+      "longitude": 114.49742,
+      "name": "邢台市",
+      "initial": "X",
+      "sortNo": 341
+    },
+    {
+      "code": 320300,
+      "latitude": 34.204224,
+      "longitude": 117.283752,
+      "name": "徐州市",
+      "initial": "X",
+      "sortNo": 342
+    },
+    {
+      "code": 411000,
+      "latitude": 34.03732,
+      "longitude": 113.852004,
+      "name": "许昌市",
+      "initial": "X",
+      "sortNo": 343
+    },
+    {
+      "code": 341800,
+      "latitude": 30.939278,
+      "longitude": 118.759127,
+      "name": "宣城市",
+      "initial": "X",
+      "sortNo": 344
+    },
+    {
+      "code": 511800,
+      "latitude": 30.009998,
+      "longitude": 103.041538,
+      "name": "雅安市",
+      "initial": "Y",
+      "sortNo": 345
+    },
+    {
+      "code": 370600,
+      "latitude": 37.464551,
+      "longitude": 121.447755,
+      "name": "烟台市",
+      "initial": "Y",
+      "sortNo": 346
+    },
+    {
+      "code": 610600,
+      "latitude": 36.650109,
+      "longitude": 109.49468,
+      "name": "延安市",
+      "initial": "Y",
+      "sortNo": 347
+    },
+    {
+      "code": 222400,
+      "latitude": 42.909426,
+      "longitude": 129.470605,
+      "name": "延边朝鲜族自治州",
+      "initial": "Y",
+      "sortNo": 348
+    },
+    {
+      "code": 320900,
+      "latitude": 33.348176,
+      "longitude": 120.16263,
+      "name": "盐城市",
+      "initial": "Y",
+      "sortNo": 349
+    },
+    {
+      "code": 321000,
+      "latitude": 32.394404,
+      "longitude": 119.412834,
+      "name": "扬州市",
+      "initial": "Y",
+      "sortNo": 350
+    },
+    {
+      "code": 441700,
+      "latitude": 21.856853,
+      "longitude": 111.98343,
+      "name": "阳江市",
+      "initial": "Y",
+      "sortNo": 351
+    },
+    {
+      "code": 140300,
+      "latitude": 37.857094,
+      "longitude": 113.580426,
+      "name": "阳泉市",
+      "initial": "Y",
+      "sortNo": 352
+    },
+    {
+      "code": 511500,
+      "latitude": 28.752354,
+      "longitude": 104.642826,
+      "name": "宜宾市",
+      "initial": "Y",
+      "sortNo": 355
+    },
+    {
+      "code": 420500,
+      "latitude": 30.69217,
+      "longitude": 111.286962,
+      "name": "宜昌市",
+      "initial": "Y",
+      "sortNo": 356
+    },
+    {
+      "code": 360900,
+      "latitude": 27.816245,
+      "longitude": 114.416826,
+      "name": "宜春市",
+      "initial": "Y",
+      "sortNo": 357
+    },
+    {
+      "code": 430900,
+      "latitude": 28.554853,
+      "longitude": 112.355994,
+      "name": "益阳市",
+      "initial": "Y",
+      "sortNo": 358
+    },
+    {
+      "code": 210800,
+      "latitude": 40.625027,
+      "longitude": 122.219148,
+      "name": "营口市",
+      "initial": "Y",
+      "sortNo": 361
+    },
+    {
+      "code": 431100,
+      "latitude": 26.419861,
+      "longitude": 111.613482,
+      "name": "永州市",
+      "initial": "Y",
+      "sortNo": 362
+    },
+    {
+      "code": 610800,
+      "latitude": 38.28576,
+      "longitude": 109.734104,
+      "name": "榆林市",
+      "initial": "Y",
+      "sortNo": 364
+    },
+    {
+      "code": 450900,
+      "latitude": 22.654001,
+      "longitude": 110.18097,
+      "name": "玉林市",
+      "initial": "Y",
+      "sortNo": 365
+    },
+    {
+      "code": 530400,
+      "latitude": 24.346786,
+      "longitude": 102.526673,
+      "name": "玉溪市",
+      "initial": "Y",
+      "sortNo": 367
+    },
+    {
+      "code": 430600,
+      "latitude": 29.35648,
+      "longitude": 113.128922,
+      "name": "岳阳市",
+      "initial": "Y",
+      "sortNo": 369
+    },
+    {
+      "code": 445300,
+      "latitude": 22.915163,
+      "longitude": 112.044524,
+      "name": "云浮市",
+      "initial": "Y",
+      "sortNo": 370
+    },
+    {
+      "code": 140800,
+      "latitude": 35.02667,
+      "longitude": 111.007051,
+      "name": "运城市",
+      "initial": "Y",
+      "sortNo": 371
+    },
+    {
+      "code": 370400,
+      "latitude": 34.810858,
+      "longitude": 117.323759,
+      "name": "枣庄市",
+      "initial": "Z",
+      "sortNo": 372
+    },
+    {
+      "code": 440800,
+      "latitude": 21.270108,
+      "longitude": 110.357538,
+      "name": "湛江市",
+      "initial": "Z",
+      "sortNo": 373
+    },
+    {
+      "code": 430800,
+      "latitude": 29.117343,
+      "longitude": 110.478887,
+      "name": "张家界市",
+      "initial": "Z",
+      "sortNo": 374
+    },
+    {
+      "code": 130700,
+      "latitude": 40.768931,
+      "longitude": 114.885895,
+      "name": "张家口市",
+      "initial": "Z",
+      "sortNo": 375
+    },
+    {
+      "code": 350600,
+      "latitude": 24.515297,
+      "longitude": 117.647298,
+      "name": "漳州市",
+      "initial": "Z",
+      "sortNo": 377
+    },
+    {
+      "code": 530600,
+      "latitude": 27.338185,
+      "longitude": 103.717078,
+      "name": "昭通市",
+      "initial": "Z",
+      "sortNo": 378
+    },
+    {
+      "code": 441200,
+      "latitude": 23.047747,
+      "longitude": 112.465245,
+      "name": "肇庆市",
+      "initial": "Z",
+      "sortNo": 379
+    },
+    {
+      "code": 321100,
+      "latitude": 32.188141,
+      "longitude": 119.424441,
+      "name": "镇江市",
+      "initial": "Z",
+      "sortNo": 380
+    },
+    {
+      "code": 410100,
+      "latitude": 34.746303,
+      "longitude": 113.625351,
+      "name": "郑州市",
+      "initial": "Z",
+      "sortNo": 381
+    },
+    {
+      "code": 442000,
+      "latitude": 22.517024,
+      "longitude": 113.392517,
+      "name": "中山市",
+      "initial": "Z",
+      "sortNo": 382
+    },
+    {
+      "code": 500100,
+      "latitude": 29.563707,
+      "longitude": 106.550483,
+      "name": "重庆市",
+      "initial": "C",
+      "sortNo": 386
+    },
+    {
+      "code": 330900,
+      "latitude": 29.985578,
+      "longitude": 122.207395,
+      "name": "舟山市",
+      "initial": "Z",
+      "sortNo": 387
+    },
+    {
+      "code": 411600,
+      "latitude": 33.634652,
+      "longitude": 114.701222,
+      "name": "周口市",
+      "initial": "Z",
+      "sortNo": 388
+    },
+    {
+      "code": 430200,
+      "latitude": 27.828862,
+      "longitude": 113.132783,
+      "name": "株洲市",
+      "initial": "Z",
+      "sortNo": 389
+    },
+    {
+      "code": 440400,
+      "latitude": 22.271644,
+      "longitude": 113.576892,
+      "name": "珠海市",
+      "initial": "Z",
+      "sortNo": 390
+    },
+    {
+      "code": 411700,
+      "latitude": 33.014038,
+      "longitude": 114.021988,
+      "name": "驻马店市",
+      "initial": "Z",
+      "sortNo": 391
+    },
+    {
+      "code": 512000,
+      "latitude": 30.129236,
+      "longitude": 104.627265,
+      "name": "资阳市",
+      "initial": "Z",
+      "sortNo": 392
+    },
+    {
+      "code": 370300,
+      "latitude": 36.813787,
+      "longitude": 118.054994,
+      "name": "淄博市",
+      "initial": "Z",
+      "sortNo": 393
+    },
+    {
+      "code": 510300,
+      "latitude": 29.33924,
+      "longitude": 104.779307,
+      "name": "自贡市",
+      "initial": "Z",
+      "sortNo": 394
+    },
+    {
+      "code": 520300,
+      "latitude": 27.721931,
+      "longitude": 107.031922,
+      "name": "遵义市",
+      "initial": "Z",
+      "sortNo": 395
+    },
+    {
+      "code": 652800,
+      "latitude": 41.80081,
+      "longitude": 86.035556,
+      "name": "巴音郭楞蒙古自治州",
+      "initial": "B",
+      "sortNo": 13
+    },
+    {
+      "code": 640300,
+      "latitude": 37.386924,
+      "longitude": 106.180719,
+      "name": "吴忠市",
+      "initial": "W",
+      "sortNo": 17
+    },
+    {
+      "code": 220700,
+      "latitude": 45.136922,
+      "longitude": 124.850123,
+      "name": "松原市",
+      "initial": "S",
+      "sortNo": 283
+    },
+    {
+      "code": 133100,
+      "latitude": 39.02,
+      "longitude": 116.04,
+      "name": "雄安新区",
+      "initial": "X",
+      "sortNo": 397
+    }
+  ]
+}

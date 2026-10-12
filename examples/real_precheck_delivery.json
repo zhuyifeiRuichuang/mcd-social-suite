@@ -1,0 +1,8 @@
+{
+  "source_tool": "delivery-query-addresses",
+  "precheck": {
+    "available": false,
+    "count": 0,
+    "addresses": []
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "scenario": "split",
+  "generated_at": "2026-10-12T13:30:07",
+  "version": "1.0.0",
+  "data_source": "examples(demo)",
+  "server_time": {
+    "formatted": "2026-10-12 13:27:12",
+    "timezone": "GMT+08:00",
+    "source": "mcp:now-time-info"
+  },
+  "store": {
+    "storeCode": "1450104",
+    "storeName": "麦当劳上海黄浦悦荟广场餐厅",
+    "address": "南京东路３５３号（山东中路九江路）",
+    "distance": 194,
+    "businessHours": "06:30-23:59"
+  },
+  "meal_period": {
+    "period": "午餐",
+    "window": "10:44至14:15",
+    "date": "2026-10-12",
+    "source": "门店 reservationTimeOptions"
+  },
+  "request": {
+    "people": 6,
+    "per_budget_yuan": 35.0,
+    "avoid": [],
+    "beType": 1,
+    "orderType": 1
+  },
+  "menu_stats": {
+    "categories": 15,
+    "meals": 118
+  },
+  "cart": [
+    {
+      "productCode": "9900008747",
+      "name": "牛肉堡单品精选",
+      "quantity": 1,
+      "unit_price_yuan": 14.0
+    },
+    {
+      "productCode": "521908",
+      "name": "黑洋酥小圆子风味派",
+      "quantity": 1,
+      "unit_price_yuan": 5.0
+    },
+    {
+      "productCode": "9900008751",
+      "name": "可乐",
+      "quantity": 1,
+      "unit_price_yuan": 9.5
+    },
+    {
+      "productCode": "1450",
+      "name": "麦香鸡",
+      "quantity": 1,
+      "unit_price_yuan": 17.0
+    },
+    {
+      "productCode": "515837",
+      "name": "圆筒冰淇淋",
+      "quantity": 1,
+      "unit_price_yuan": 5.0
+    },
+    {
+      "productCode": "3010",
+      "name": "雪碧",
+      "quantity": 1,
+      "unit_price_yuan": 9.5
+    },
+    {
+      "productCode": "9900011126",
+      "name": "酥脆无双套餐",
+      "quantity": 1,
+      "unit_price_yuan": 20.0
+    },
+    {
+      "productCode": "6102",
+      "name": "苹果片",
+      "quantity": 1,
+      "unit_price_yuan": 7.0
+    },
+    {
+      "productCode": "3757",
+      "name": "纯悦",
+      "quantity": 1,
+      "unit_price_yuan": 7.5
+    },
+    {
+      "productCode": "521816",
+      "name": "酥酥多笋卷",
+      "quantity": 1,
+      "unit_price_yuan": 20.5
+    },
+    {
+      "productCode": "9900008752",
+      "name": "派",
+      "quantity": 1,
+      "unit_price_yuan": 8.5
+    },
+    {
+      "productCode": "1440",
+      "name": "麦辣鸡腿汉堡",
+      "quantity": 1,
+      "unit_price_yuan": 22.5
+    },
+    {
+      "productCode": "521986",
+      "name": "马苏里拉拉丝芝士条",
+      "quantity": 1,
+      "unit_price_yuan": 11.0
+    },
+    {
+      "productCode": "1600",
+      "name": "麦香鱼",
+      "quantity": 1,
+      "unit_price_yuan": 22.5
+    },
+    {
+      "productCode": "9900016099",
+      "name": "蘸酱脆皮鸡块",
+      "quantity": 1,
+      "unit_price_yuan": 11.9
+    }
+  ],
+  "coupon": null,
+  "official_price": {
+    "original_fen": 19140,
+    "product_fen": 19140,
+    "discount_fen": 0,
+    "packing_fen": 0,
+    "delivery_fen": 0,
+    "tableware_fen": 0,
+    "payable_fen": 19140,
+    "source_tool": "query-meals 菜单价合计（demo，未经 calculate-price）",
+    "demo_note": "离线演示模式：未调用 calculate-price，金额为官方菜单实时价的直接合计，不含优惠/打包/配送/餐具；live 模式一律以 calculate-price 为准。"
+  },
+  "per_person_avg_fen": 3190,
+  "roster": [
+    {
+      "person": "P1",
+      "tier": "30-40元",
+      "items": [
+        {
+          "code": "9900008747",
+          "name": "牛肉堡单品精选",
+          "role": "主食",
+          "price_yuan": 14.0
+        },
+        {
+          "code": "521908",
+          "name": "黑洋酥小圆子风味派",
+          "role": "小食",
+          "price_yuan": 5.0
+        },
+        {
+          "code": "9900008751",
+          "name": "可乐",
+          "role": "饮料",
+          "price_yuan": 9.5
+        }
+      ],
+      "menu_subtotal_yuan": 28.5,
+      "share_fen": 2850,
+      "share_yuan": "28.50"
+    },
+    {
+      "person": "P2",
+      "tier": "30-40元",
+      "items": [
+        {
+          "code": "1450",
+          "name": "麦香鸡",
+          "role": "主食",
+          "price_yuan": 17.0
+        },
+        {
+          "code": "515837",
+          "name": "圆筒冰淇淋",
+          "role": "小食",
+          "price_yuan": 5.0
+        },
+        {
+          "code": "3010",
+          "name": "雪碧",
+          "role": "饮料",
+          "price_yuan": 9.5
+        }
+      ],
+      "menu_subtotal_yuan": 31.5,
+      "share_fen": 3150,
+      "share_yuan": "31.50"
+    },
+    {
+      "person": "P3",
+      "tier": "30-40元",
+      "items": [
+        {
+          "code": "9900011126",
+          "name": "酥脆无双套餐",
+          "role": "主食",
+          "price_yuan": 20.0
+        },
+        {
+          "code": "6102",
+          "name": "苹果片",
+          "role": "小食",
+          "price_yuan": 7.0
+        },
+        {
+          "code": "3757",
+          "name": "纯悦",
+          "role": "饮料",
+          "price_yuan": 7.5
+        }
+      ],
+      "menu_subtotal_yuan": 34.5,
+      "share_fen": 3450,
+      "share_yuan": "34.50"
+    },
+    {
+      "person": "P4",
+      "tier": "30-40元",
+      "items": [
+        {
+          "code": "521816",
+          "name": "酥酥多笋卷",
+          "role": "主食",
+          "price_yuan": 20.5
+        },
+        {
+          "code": "9900008752",
+          "name": "派",
+          "role": "小食",
+          "price_yuan": 8.5
+        }
+      ],
+      "menu_subtotal_yuan": 29.0,
+      "share_fen": 2900,
+      "share_yuan": "29.00"
+    },
+    {
+      "person": "P5",
+      "tier": "30-40元",
+      "items": [
+        {
+          "code": "1440",
+          "name": "麦辣鸡腿汉堡",
+          "role": "主食",
+          "price_yuan": 22.5
+        },
+        {
+          "code": "521986",
+          "name": "马苏里拉拉丝芝士条",
+          "role": "小食",
+          "price_yuan": 11.0
+        }
+      ],
+      "menu_subtotal_yuan": 33.5,
+      "share_fen": 3350,
+      "share_yuan": "33.50"
+    },
+    {
+      "person": "P6",
+      "tier": "30-40元",
+      "items": [
+        {
+          "code": "1600",
+          "name": "麦香鱼",
+          "role": "主食",
+          "price_yuan": 22.5
+        },
+        {
+          "code": "9900016099",
+          "name": "蘸酱脆皮鸡块",
+          "role": "小食",
+          "price_yuan": 11.9
+        }
+      ],
+      "menu_subtotal_yuan": 34.4,
+      "share_fen": 3440,
+      "share_yuan": "34.40"
+    }
+  ],
+  "take_way_list": [],
+  "settlement_note": "按每人菜单小计加权分摊应付总额；余数调平到分，合计严格等于应付总额。",
+  "guard": {
+    "items_schema": "productCode+quantity（已守卫）",
+    "zero_guard": "productList 件数须等于请求件数，且应付 > 0"
+  },
+  "disclaimer": "非麦当劳官方产品；价格与供应以麦当劳官方渠道实时结果为准。"
+}

@@ -1,0 +1,35 @@
+{
+  "source_tool": "query-party-store-date",
+  "storeCode": "1450713",
+  "count": 7,
+  "dates": [
+    {
+      "date": "2026-10-15",
+      "storeCode": "1450713"
+    },
+    {
+      "date": "2026-10-16",
+      "storeCode": "1450713"
+    },
+    {
+      "date": "2026-10-17",
+      "storeCode": "1450713"
+    },
+    {
+      "date": "2026-10-18",
+      "storeCode": "1450713"
+    },
+    {
+      "date": "2026-10-19",
+      "storeCode": "1450713"
+    },
+    {
+      "date": "2026-10-20",
+      "storeCode": "1450713"
+    },
+    {
+      "date": "2026-10-21",
+      "storeCode": "1450713"
+    }
+  ]
+}

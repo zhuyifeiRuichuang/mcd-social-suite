@@ -1,0 +1,17 @@
+{
+  "note": "items 形态故障留证",
+  "cases": [
+    {
+      "shape": "code+num",
+      "outcome": "服务端拒绝",
+      "code": 600010,
+      "message": "接口返回失败 code=600010：缺少商品code或者商品数量quantity不正确"
+    },
+    {
+      "shape": "code+quantity",
+      "outcome": "被服务端接受",
+      "price_fen": 0,
+      "productList": []
+    }
+  ]
+}

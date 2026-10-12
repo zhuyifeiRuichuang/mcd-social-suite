@@ -1,0 +1,56 @@
+{
+  "scenario": "group",
+  "generated_at": "2026-10-12T13:28:58",
+  "version": "1.0.0",
+  "data_source": "mcp",
+  "beType": 6,
+  "orderType": 2,
+  "precheck": {
+    "available": false,
+    "count": 0,
+    "addresses": []
+  },
+  "chain": [
+    "delivery-query-addresses",
+    "delivery-query-stores(beType=6)",
+    "query-meal-assistance",
+    "query-promotions",
+    "query-meals(beType=6)",
+    "calculate-price(gmServiceCode)"
+  ],
+  "status": "degraded",
+  "reason_code": "NO_DELIVERY_ADDRESS",
+  "message": "当前账号没有可配送地址（delivery-query-addresses 返回空），无法取得团餐必需的 beCode；硬试 delivery-query-stores 会返回 600020 配送地址不存在，query-meal-assistance / query-promotions 会返回 600048 外送场景下 beType=2/5/6 时必传 beCode。本引擎因此停止，不输出任何价格或门店。",
+  "how_to_enable": "在麦当劳官方 App/小程序添加一个配送地址后重跑；本引擎只读地址，不会代你创建地址。",
+  "verified_errors": [
+    {
+      "tool": "delivery-query-stores",
+      "params": {
+        "beType": 6,
+        "addressId": "0"
+      },
+      "code": 600020,
+      "message": "配送地址不存在"
+    },
+    {
+      "tool": "query-meal-assistance",
+      "params": {
+        "storeCode": "*",
+        "beType": 6,
+        "orderType": 2
+      },
+      "code": 600048,
+      "message": "外送场景下，beType=2/5/6时必传beCode"
+    },
+    {
+      "tool": "query-promotions",
+      "params": {
+        "storeCode": "*",
+        "beType": 6,
+        "orderType": 2
+      },
+      "code": 600048,
+      "message": "外送场景下，beType=2/5/6时必传beCode"
+    }
+  ]
+}

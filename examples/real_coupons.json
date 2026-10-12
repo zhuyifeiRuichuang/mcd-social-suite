@@ -1,0 +1,32 @@
+{
+  "source_tool": "query-store-coupons",
+  "count": 2,
+  "coupons": [
+    {
+      "title": "中薯条买一送一",
+      "couponId": "8692944B045928451618BFF22F535D2A",
+      "couponCode": "MCD697730490QN1810108",
+      "tradeDateTime": "2026-10-12 10:30:00-2026-10-16 23:59:59",
+      "products": [
+        {
+          "productCode": "9900012387",
+          "productName": "中薯条买一送一"
+        }
+      ],
+      "promotionId": "112458028"
+    },
+    {
+      "title": "王牌小食拼",
+      "couponId": "E05F6BFB4BAFAA5DB44B233583BFE711",
+      "couponCode": "MCD698009Q030119700N8",
+      "tradeDateTime": "2026-10-12 10:30:00-2026-10-16 23:59:59",
+      "products": [
+        {
+          "productCode": "9900016371",
+          "productName": "王牌小食拼"
+        }
+      ],
+      "promotionId": "112458029"
+    }
+  ]
+}

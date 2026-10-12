@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>麦麦社交点餐方案卡</title>
+<style>
+:root{--bg:#f6f7f9;--card:#ffffff;--line:#e3e6ea;--ink:#1f2328;--sub:#5b6570;
+--accent:#c8102e;--ok:#0f7b3f;--warn:#a2600a;--warnbg:#fff7e6;--soft:#f0f2f5;}
+*{box-sizing:border-box}
+body{margin:0;padding:24px;background:var(--bg);color:var(--ink);
+font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",Segoe UI,Roboto,sans-serif;
+line-height:1.6;font-size:14px}
+.wrap{max-width:960px;margin:0 auto}
+h1{font-size:22px;margin:0 0 4px}
+h2{font-size:16px;margin:0 0 12px;padding-left:9px;border-left:4px solid var(--accent)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px;margin-bottom:16px}
+.sub{color:var(--sub);font-size:12px}
+.grid{display:flex;flex-wrap:wrap;gap:10px}
+.chip{background:var(--soft);border:1px solid var(--line);border-radius:999px;padding:3px 11px;font-size:12px}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th,td{border-bottom:1px solid var(--line);padding:7px 8px;text-align:left;vertical-align:top}
+th{width:150px;color:var(--sub);font-weight:600;background:#fafbfc}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+.big{font-size:26px;font-weight:700;color:var(--accent);font-variant-numeric:tabular-nums}
+.warn{background:var(--warnbg);border:1px solid #f0d9a8;color:var(--warn);
+border-radius:8px;padding:11px 13px;font-size:13px}
+.ok{color:var(--ok)}
+.foot{color:var(--sub);font-size:12px;border-top:1px dashed var(--line);padding-top:12px;margin-top:6px}
+.bad{display:inline-block;background:#fdecec;color:#a3122b;border-radius:6px;padding:1px 7px;font-size:12px}
+.good{display:inline-block;background:#e8f6ec;color:var(--ok);border-radius:6px;padding:1px 7px;font-size:12px}
+ul{margin:6px 0 0 18px;padding:0}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12px}
+</style></head><body><div class="wrap">
+<div class="card">
+<h1>麦麦社交点餐方案卡</h1>
+<div class="sub">生成时间 2026-10-12 13:35 · 数据源 <span class="mono">mcp</span> · 引擎 v1.0.0</div>
+<div class="grid" style="margin-top:10px">
+<span class="chip">官方服务器时间 2026-10-12 13:28:19</span>
+<span class="chip">拼单</span><span class="chip">团餐</span>
+<span class="chip">派对</span><span class="chip">代送</span>
+</div></div>
+<div class="card"><h2>拼单方案</h2>
+<table>
+<tr><th>门店</th><td>麦当劳上海黄浦悦荟广场餐厅（1450104）</td></tr>
+<tr><th>地址</th><td>南京东路３５３号（山东中路九江路）</td></tr>
+<tr><th>营业时间</th><td>06:30-23:59</td></tr>
+<tr><th>当前时段</th><td>午餐 10:44至14:15</td></tr>
+<tr><th>人数</th><td>4</td></tr>
+<tr><th>人均预算</th><td>¥30.00</td></tr>
+<tr><th>忌口</th><td>无</td></tr>
+</table>
+<h2 style="margin-top:18px">购物车（官方菜单实时价）</h2><table>
+<tr><th>餐品</th><th class="num">单价</th><th class="num">数量</th><th class="num">小计</th></tr>
+<tr><td>牛肉堡单品精选</td><td class="num">¥14.00</td><td class="num">1</td><td class="num">¥14.00</td></tr>
+<tr><td>黑洋酥小圆子风味派</td><td class="num">¥5.00</td><td class="num">1</td><td class="num">¥5.00</td></tr>
+<tr><td>可乐</td><td class="num">¥9.50</td><td class="num">1</td><td class="num">¥9.50</td></tr>
+<tr><td>麦香鸡</td><td class="num">¥17.00</td><td class="num">1</td><td class="num">¥17.00</td></tr>
+<tr><td>圆筒冰淇淋</td><td class="num">¥5.00</td><td class="num">1</td><td class="num">¥5.00</td></tr>
+<tr><td>纯悦</td><td class="num">¥7.50</td><td class="num">1</td><td class="num">¥7.50</td></tr>
+<tr><td>酥脆无双套餐</td><td class="num">¥20.00</td><td class="num">1</td><td class="num">¥20.00</td></tr>
+<tr><td>苹果片</td><td class="num">¥7.00</td><td class="num">1</td><td class="num">¥7.00</td></tr>
+<tr><td>酥酥多笋卷</td><td class="num">¥20.50</td><td class="num">1</td><td class="num">¥20.50</td></tr>
+<tr><td>派</td><td class="num">¥8.50</td><td class="num">1</td><td class="num">¥8.50</td></tr>
+</table>
+<h2 style="margin-top:18px">官方核价（calculate-price）</h2>
+<div class="big">应付 ¥114.00</div>
+<table style="margin-top:8px">
+<tr><th>商品原价</th><td>¥114.00</td></tr>
+<tr><th>优惠金额</th><td>¥5.00</td></tr>
+<tr><th>打包费</th><td>¥0.00</td></tr>
+<tr><th>配送费</th><td>¥0.00</td></tr>
+<tr><th>餐具费</th><td>¥0.00</td></tr>
+<tr><th>人均</th><td>¥28.50</td></tr>
+</table>
+<h2 style="margin-top:18px">分工与分账（精确到分，合计=应付）</h2><table>
+<tr><th>成员</th><th>配置（官方档位）</th><th class="num">菜单小计</th><th class="num">实摊</th></tr>
+<tr><td>P1</td><td>牛肉堡单品精选(¥14.00)、黑洋酥小圆子风味派(¥5.00)、可乐(¥9.50) <span class="sub">30-40元</span></td><td class="num">¥28.50</td><td class="num">¥28.50</td></tr>
+<tr><td>P2</td><td>麦香鸡(¥17.00)、圆筒冰淇淋(¥5.00)、纯悦(¥7.50) <span class="sub">30-40元</span></td><td class="num">¥29.50</td><td class="num">¥29.50</td></tr>
+<tr><td>P3</td><td>酥脆无双套餐(¥20.00)、苹果片(¥7.00) <span class="sub">30-40元</span></td><td class="num">¥27.00</td><td class="num">¥27.00</td></tr>
+<tr><td>P4</td><td>酥酥多笋卷(¥20.50)、派(¥8.50) <span class="sub">30-40元</span></td><td class="num">¥29.00</td><td class="num">¥29.00</td></tr>
+</table>
+<div class="sub" style="margin-top:6px">按每人菜单小计加权分摊应付总额；余数调平到分，合计严格等于应付总额。</div>
+<div class="sub" style="margin-top:8px">取餐方式（create-order 的 takeWayCode 取值来源）：eat-in=堂食、take-in-store=外带</div>
+</div>
+<div class="card"><h2>派对预约</h2><table>
+<tr><th>派对商品</th><td>麦当劳奇妙生日派对（spuId 1779 / 生日类派对）</td></tr>
+<tr><th>适用人数</th><td>5-12</td></tr>
+<tr><th>适用年龄</th><td>4-12</td></tr>
+<tr><th>模式</th><td>拼团（partyType=2）</td></tr>
+<tr><th>门店</th><td>麦当劳上海黄浦华旭国际大厦餐厅（1450713）</td></tr>
+<tr><th>日期</th><td>2026-10-15</td></tr>
+</table>
+<h2 style="margin-top:18px">可预约场次</h2><table>
+<tr><th>时段</th><th class="num">人数区间</th><th class="num">余位</th><th class="num">价格</th><th>结论</th></tr>
+<tr><td>12:00–13:30</td><td class="num">5–12</td><td class="num">12</td><td class="num">¥50.00</td><td><span class="good">可约</span></td></tr>
+<tr><td>18:30–20:00</td><td class="num">5–12</td><td class="num">12</td><td class="num">¥50.00</td><td><span class="good">可约</span></td></tr>
+</table>
+<div style="margin-top:10px"><span class="good">推荐场次</span> 12:00–13:30 ¥50.00（余位 12）</div>
+<div class="warn" style="margin-top:12px">派对下单须显式 --confirm 才会调用 party-order-create；本命令默认不下单。</div>
+</div>
+<div class="card"><h2>团餐（企业团餐 beType=6）</h2>
+<div class="warn"><strong>NO_DELIVERY_ADDRESS</strong><br>当前账号没有可配送地址（delivery-query-addresses 返回空），无法取得团餐必需的 beCode；硬试 delivery-query-stores 会返回 600020 配送地址不存在，query-meal-assistance / query-promotions 会返回 600048 外送场景下 beType=2/5/6 时必传 beCode。本引擎因此停止，不输出任何价格或门店。<br><br><strong>如何启用：</strong>在麦当劳官方 App/小程序添加一个配送地址后重跑；本引擎只读地址，不会代你创建地址。</div>
+<div class="sub" style="margin-top:8px">已实测的服务端校验：</div><ul>
+<li class="mono">delivery-query-stores -&gt; 600020 配送地址不存在</li>
+<li class="mono">query-meal-assistance -&gt; 600048 外送场景下，beType=2/5/6时必传beCode</li>
+<li class="mono">query-promotions -&gt; 600048 外送场景下，beType=2/5/6时必传beCode</li>
+</ul>
+</div>
+<div class="card"><h2>代送</h2>
+<div class="warn"><strong>NO_DELIVERY_ADDRESS</strong><br>当前账号没有可配送地址，代送链路不可用。本引擎只读地址列表，不会替你建档（建档需真实姓名+11 位手机号，属 PII）。<br><br><strong>如何启用：</strong>请先在麦当劳官方 App/小程序添加你本人的配送地址。</div>
+</div>
+<div class="card"><h2>外送链路预检</h2><table>
+<tr><th>可配送地址数</th><td>0</td></tr>
+<tr><th>外送可用</th><td>否</td></tr>
+</table></div>
+<div class="card">
+<h2>约束与声明</h2>
+<ul>
+<li><strong>停在付款前</strong>：本卡不创建任何订单。<code>create-order</code> /
+<code>party-order-create</code> 须用户显式确认后才会调用。</li>
+<li><strong>代送隐私</strong>：禁止录入他人姓名/手机号/地址；代送以本人地址下单 + 交接说明完成，
+输出对第三方信息脱敏。</li>
+<li><strong>核价守卫</strong>：<code>calculate-price</code> 的 items 只用
+<code>productCode</code>+<code>quantity</code>；<code>code</code> 形态会被静默接受并返回 0 元，
+已拦截。返回件数与请求件数不符或应付 ≤ 0 时直接报错，不产出金额。</li>
+<li><strong>非官方产品</strong>：本项目为麦当劳程序员创意开发大赛参赛作品，由参赛者独立开发，
+非麦当劳官方产品。餐品、价格、时段、名额与供应状态一律以麦当劳官方渠道实时结果为准。</li>
+</ul>
+<div class="foot">麦麦社交点餐套件 v1.0.0 · 单 Token 600 次/分钟限流内调用 · 不跨品牌对比 · 不代用户支付</div>
+</div>
+</div></body></html>

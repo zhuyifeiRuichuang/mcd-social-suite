@@ -1,0 +1,131 @@
+{
+  "source_tool": "query-nearby-stores",
+  "params": {
+    "city": "上海市",
+    "keyword": "南京东路",
+    "beType": 1
+  },
+  "count": 5,
+  "stores": [
+    {
+      "storeCode": "1450104",
+      "storeName": "麦当劳上海黄浦悦荟广场餐厅",
+      "address": "南京东路３５３号（山东中路九江路）",
+      "distance": 194,
+      "businessStatus": true,
+      "businessStartTime": "06:30",
+      "businessEndTime": "23:59",
+      "longitude": 0.0,
+      "latitude": 0.0,
+      "reservation": true,
+      "reservationTimeOptions": [
+        {
+          "date": "2026-10-12",
+          "today": true,
+          "reservationOptionText": "午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)，宵夜(22:14至23:45)"
+        },
+        {
+          "date": "2026-10-13",
+          "today": false,
+          "reservationOptionText": "早餐(06:44至10:15)，午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)，宵夜(22:14至23:45)"
+        }
+      ]
+    },
+    {
+      "storeCode": "1450449",
+      "storeName": "麦当劳上海黄浦恒基名人购物中心餐厅",
+      "address": "南京东路300号B2",
+      "distance": 230,
+      "businessStatus": true,
+      "businessStartTime": "08:00",
+      "businessEndTime": "22:00",
+      "longitude": 0.0,
+      "latitude": 0.0,
+      "reservation": true,
+      "reservationTimeOptions": [
+        {
+          "date": "2026-10-12",
+          "today": true,
+          "reservationOptionText": "午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)"
+        },
+        {
+          "date": "2026-10-13",
+          "today": false,
+          "reservationOptionText": "早餐(08:14至10:15)，午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)"
+        }
+      ]
+    },
+    {
+      "storeCode": "1450556",
+      "storeName": "麦当劳上海黄浦区福州路上海书城餐厅",
+      "address": "福州路465号",
+      "distance": 325,
+      "businessStatus": true,
+      "businessStartTime": "07:00",
+      "businessEndTime": "22:00",
+      "longitude": 0.0,
+      "latitude": 0.0,
+      "reservation": true,
+      "reservationTimeOptions": [
+        {
+          "date": "2026-10-12",
+          "today": true,
+          "reservationOptionText": "午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)"
+        },
+        {
+          "date": "2026-10-13",
+          "today": false,
+          "reservationOptionText": "早餐(07:14至10:15)，午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)"
+        }
+      ]
+    },
+    {
+      "storeCode": "1450056",
+      "storeName": "麦当劳上海食品一店餐厅",
+      "address": "南京东路720号",
+      "distance": 496,
+      "businessStatus": true,
+      "businessStartTime": "06:30",
+      "businessEndTime": "23:00",
+      "longitude": 0.0,
+      "latitude": 0.0,
+      "reservation": true,
+      "reservationTimeOptions": [
+        {
+          "date": "2026-10-12",
+          "today": true,
+          "reservationOptionText": "午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)，宵夜(22:14至22:46)"
+        },
+        {
+          "date": "2026-10-13",
+          "today": false,
+          "reservationOptionText": "早餐(06:44至10:15)，午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)，宵夜(22:14至22:46)"
+        }
+      ]
+    },
+    {
+      "storeCode": "1450441",
+      "storeName": "麦当劳上海福州路餐厅",
+      "address": "福州路666号",
+      "distance": 603,
+      "businessStatus": true,
+      "businessStartTime": "06:30",
+      "businessEndTime": "23:00",
+      "longitude": 0.0,
+      "latitude": 0.0,
+      "reservation": true,
+      "reservationTimeOptions": [
+        {
+          "date": "2026-10-12",
+          "today": true,
+          "reservationOptionText": "午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)，宵夜(22:14至22:46)"
+        },
+        {
+          "date": "2026-10-13",
+          "today": false,
+          "reservationOptionText": "早餐(06:44至10:15)，午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)，宵夜(22:14至22:46)"
+        }
+      ]
+    }
+  ]
+}

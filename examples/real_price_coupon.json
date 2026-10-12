@@ -1,0 +1,40 @@
+{
+  "source_tool": "calculate-price",
+  "store_code": "1450104",
+  "items": [
+    {
+      "productCode": "9900012387",
+      "quantity": 1,
+      "couponId": "8692944B045928451618BFF22F535D2A",
+      "couponCode": "MCD697730490QN1810108"
+    }
+  ],
+  "result": {
+    "productOriginalPrice": 2700,
+    "productPrice": 1350,
+    "originalPrice": 2700,
+    "discount": 1350,
+    "price": 1350,
+    "productList": [
+      {
+        "productCode": "9900012387",
+        "productName": "中薯条买一送一",
+        "quantity": 1,
+        "originalSubtotal": 2700,
+        "subtotal": 1350
+      }
+    ],
+    "takeWayList": [
+      {
+        "code": "eat-in",
+        "title": "堂食",
+        "subtitle": "店内用餐"
+      },
+      {
+        "code": "take-in-store",
+        "title": "外带",
+        "subtitle": "店内自提"
+      }
+    ]
+  }
+}

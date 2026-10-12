@@ -1,0 +1,23 @@
+{
+  "note": "下单工具缺参预检（只发不完整参数，服务端应拒绝且不建单）",
+  "cases": [
+    {
+      "case": "缺 items+takeWayCode",
+      "tool": "create-order",
+      "code": 600010,
+      "message": "接口返回失败 code=600010：检查必填参数"
+    },
+    {
+      "case": "有items缺takeWayCode",
+      "tool": "create-order",
+      "code": 600042,
+      "message": "接口返回失败 code=600042：orderType=1时必须传takeWayCode"
+    },
+    {
+      "case": "party-order-create 缺参",
+      "tool": "party-order-create",
+      "code": 400,
+      "message": "接口返回失败 code=400：请求的数据格式错误"
+    }
+  ]
+}

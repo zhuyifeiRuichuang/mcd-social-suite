@@ -1,0 +1,34 @@
+{
+  "note": "团餐链路在无配送地址时的服务端真实校验",
+  "cases": [
+    {
+      "tool": "delivery-query-stores",
+      "params": {
+        "beType": 6,
+        "addressId": "0"
+      },
+      "code": 600020,
+      "message": "接口返回失败 code=600020：配送地址不存在"
+    },
+    {
+      "tool": "query-meal-assistance",
+      "params": {
+        "storeCode": "1450104",
+        "beType": 6,
+        "orderType": 2
+      },
+      "code": 600048,
+      "message": "接口返回失败 code=600048：外送场景下，beType=2/5/6时必传beCode"
+    },
+    {
+      "tool": "query-promotions",
+      "params": {
+        "storeCode": "1450104",
+        "beType": 6,
+        "orderType": 2
+      },
+      "code": 600048,
+      "message": "接口返回失败 code=600048：外送场景下，beType=2/5/6时必传beCode"
+    }
+  ]
+}

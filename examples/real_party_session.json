@@ -1,0 +1,32 @@
+{
+  "source_tool": "query-party-store-session",
+  "storeCode": "1450713",
+  "dateStr": "2026-10-15",
+  "count": 2,
+  "sessions": [
+    {
+      "id": 36854295,
+      "timeStart": "12:00",
+      "timeEnd": "13:30",
+      "partyMin": 5,
+      "partyMax": 12,
+      "price": 5000,
+      "cookEmpNo": "",
+      "opEmpNo": "",
+      "rgmEmpNo": "15010805",
+      "leftNum": 12
+    },
+    {
+      "id": 36859262,
+      "timeStart": "18:30",
+      "timeEnd": "20:00",
+      "partyMin": 5,
+      "partyMax": 12,
+      "price": 5000,
+      "cookEmpNo": "",
+      "opEmpNo": "",
+      "rgmEmpNo": "15010805",
+      "leftNum": 12
+    }
+  ]
+}

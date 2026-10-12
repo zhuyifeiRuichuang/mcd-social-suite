@@ -1,0 +1,59 @@
+{
+  "version": "1.0.0",
+  "scenarios": [
+    {
+      "key": "split",
+      "name": "拼单",
+      "tools": [
+        "now-time-info",
+        "query-nearby-stores",
+        "query-meals",
+        "query-store-coupons",
+        "calculate-price"
+      ],
+      "verified": true,
+      "blocker": null
+    },
+    {
+      "key": "party",
+      "name": "派对",
+      "tools": [
+        "mall-points-products",
+        "mall-product-detail",
+        "query-party-city",
+        "query-party-store",
+        "query-party-store-date",
+        "query-party-store-session"
+      ],
+      "verified": true,
+      "blocker": null
+    },
+    {
+      "key": "group",
+      "name": "团餐",
+      "tools": [
+        "delivery-query-addresses",
+        "delivery-query-stores",
+        "query-meal-assistance",
+        "query-promotions",
+        "query-meals",
+        "calculate-price"
+      ],
+      "verified": false,
+      "blocker": "需账号存在配送地址才能取到 beCode（600020/600048）"
+    },
+    {
+      "key": "proxy",
+      "name": "代送",
+      "tools": [
+        "delivery-query-addresses",
+        "delivery-query-stores",
+        "query-meals",
+        "calculate-price"
+      ],
+      "verified": false,
+      "blocker": "同上；且禁止录入他人 PII"
+    }
+  ],
+  "note": "verified=false 的场景在本文档产出时因账号无配送地址而无法端到端验证；引擎对该类场景一律降级停止，绝不输出编造结果。"
+}

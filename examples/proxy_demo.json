@@ -1,0 +1,27 @@
+{
+  "scenario": "proxy",
+  "generated_at": "2026-10-12T13:30:10",
+  "version": "1.0.0",
+  "data_source": "examples(demo)",
+  "privacy_policy": {
+    "rule": "禁止写入他人 PII",
+    "detail": "绝不调用 delivery-create-address 录入他人姓名/手机号/地址；代送一律以『下单人本人地址 + 交接说明』方式完成，输出中对第三方信息做脱敏。",
+    "blocked_tools": [
+      "delivery-create-address"
+    ]
+  },
+  "precheck": {
+    "available": false,
+    "count": 0,
+    "addresses": []
+  },
+  "handover": {
+    "pickup_note": "",
+    "avoid": [],
+    "contact_masked": ""
+  },
+  "status": "degraded",
+  "reason_code": "NO_DELIVERY_ADDRESS",
+  "message": "当前账号没有可配送地址，代送链路不可用。本引擎只读地址列表，不会替你建档（建档需真实姓名+11 位手机号，属 PII）。",
+  "how_to_enable": "请先在麦当劳官方 App/小程序添加你本人的配送地址。"
+}
